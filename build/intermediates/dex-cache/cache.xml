@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9dcfde28ffd6a43340b6db8c0f6d315ff1fcdfa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e80b310629a9cb664c5f9af51e8a1f352ddb26b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3f913689e998a8e5999fe89d386e6bef5f30e277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_75c0d1c51d58306e73ed146e9a2e7550f238f34e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09db4008f768758b5ae91c3dc1992111718ddf90">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5651c4e205b9166f2c11403906b76db61b6d9b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e67c1da2a89a21954b1efb5d05aeb030f9780a4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_021e35175bd8b7359b000c8569feae0a5c2cb797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ffd57eabdeab8337b110a6ee4dd93ad664198564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fdd4ef836f94bef901e65bb75017f2e9a0b4926a">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_277e180355256bf58953bb2e673a71b966553010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9cef2b54ea0a21c8677511ed75e3ea0f14bec9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bbfdd0b5029a629c839bccc63a21cb705861e121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_56d14c7cc59f4eb4e2edbc8e1564d94dbb07518c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d6fe6e68a0651b0d3ff0ee01d51451d54d4590c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2940ff49e3f4d6b312ff2c34a3d6de77a59a9095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2c5672f310190e265e0fc0aee54075864f0eb2b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_70f29b8e3ab8ca458fbad7a6fe63c3625bea7faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/svasquezl/AndroidStudioProjects/EscuelaConduccion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_14b893efda24b11450247d5cd664771982aa1459/classes.dex" />
+    </item>
+
+</items>

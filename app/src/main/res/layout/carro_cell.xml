@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:text="cell naem"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:paddingBottom="5dp"
+        android:textAlignment="center"
+        android:id="@+id/cell_carro"
+        android:layout_weight="1" />
+
+    <TextView
+        android:text="cell naem"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:paddingBottom="5dp"
+        android:textAlignment="center"
+        android:id="@+id/cell_color"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Eliminar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cell_boton_eliminar"
+        android:onClick="eliminarCarro"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Editar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/cell_boton_modificar"
+        android:onClick="modificarCarro"
+        android:layout_weight="1" />
+
+
+</LinearLayout>
